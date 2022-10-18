@@ -1,0 +1,227 @@
+	body {
+		background-color: red;
+		background-repeat: repeat; 
+		background-size: 500%;
+		height: auto;
+		font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+		color: white;
+		text-align: center;
+	}
+
+	main {
+		position: absolute;
+		top: 0;
+		left: 150px;
+		width: 100%;
+	}
+	
+	nav {
+		position: sticky;
+		top: 0;
+		left: 0;
+		flex: auto;
+	}
+	
+	nav ul li{
+		list-style: none;
+		margin: 4px;
+		font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, 'sans-serif';
+		font-size: 10px;
+	}
+	
+	li{
+		text-align: left;
+	}
+
+	h1 {
+		font-family: papyrus;
+		font-size: 50px;
+		text-align: center;
+		color: white;
+		background-color: darkred;
+		border-style: inherit;
+		border-radius: 5px;
+		padding: 20px;
+		padding-top: 40px;
+		width: 100%;
+	}
+
+	h3 {
+		font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+		color: white;
+		text-align: center;
+	
+	}
+
+	a:hover {
+		color: darkolivegreen;
+		text-align: center;
+		font-size: 15px;
+		
+	}
+
+	#Nick:hover {
+		color: purple;
+		text-align: center;
+		font-size: 15px;
+	}	
+
+	.responsive {
+		max-width: 100%;
+		height: auto;
+	}
+
+
+@media (max-width: 768px) {
+	
+	body {
+		background-color: orangered;
+		background-image: url(https://wallpaperaccess.com/full/404784.jpg);
+		background-repeat: repeat;
+		background-position: center;
+		background-size: cover;
+		height: auto;
+		font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+		color: white;
+		text-align: center;
+	}
+	
+	main {
+		position: absolute;
+		top: 0;
+		left: 150px;
+		width: 100%;
+	}
+	
+	nav {
+		position: sticky;
+		top: 0;
+		left: 0;
+		flex: auto;
+	}
+	
+	nav ul li{
+		list-style: none;
+		margin: 4px;
+		font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, 'sans-serif';
+		font-size: 10px;
+	}
+	
+	li{
+		text-align: left;
+	}
+	
+	h1 {
+		font-family: papyrus;
+		font-size: 50px;
+		text-align: center;
+		color: white;
+		background-color: orangered;
+		border-style: inherit;
+		border-radius: 5px;
+		padding: 20px;
+		padding-top: 40px;
+	}
+
+	h3 {
+		font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+		color: white;
+		text-align: center;
+	
+	}
+
+	a:hover {
+		color: darkolivegreen;
+		text-align: center;
+		font-size: 15px;
+		
+	}
+
+	#Nick:hover {
+		color: purple;
+		text-align: center;
+		font-size: 15px;
+	}
+
+	.responsive {
+		max-width: 100%;
+		height: auto;
+	}
+
+
+@media (max-width: 486px){
+
+	body {
+		background-color: orangered;
+		background-image: url(https://media.istockphoto.com/vectors/red-chinese-pattern-oriental-background-vector-vector-id1200713909?k=20&m=1200713909&s=612x612&w=0&h=8nelcaG7T67plt73C4jghnAZlYobaYJv_UI4pCNeC88=);
+		background-repeat: repeat;
+		background-position: center;
+		background-size: cover;
+		height: auto;
+		font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+		color: white;
+		text-align: center;
+	}
+	
+	main {
+		position: absolute;
+		top: 0;
+		left: 150px;
+		width: 100%;
+	}
+	
+	nav {
+		position: sticky;
+		top: 0;
+		left: 0;
+		flex: auto;
+	}
+	
+	nav ul li{
+		list-style: none;
+		margin: 4px;
+		font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, 'sans-serif';
+		font-size: 10px;
+	}
+	
+	li {
+		text-align: left;
+	}
+
+	h1 {
+		font-family: papyrus;
+		font-size: 50px;
+		text-align: center;
+		color: white;
+		background-color: darkred;
+		border-style: inherit;
+		border-radius: 5px;
+		padding: 20px;
+		padding-top: 40px;
+	}
+
+	h3 {
+		font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+		color: white;
+		text-align: center;
+	
+	}
+
+	a:hover {
+		color: darkolivegreen;
+		text-align: center;
+		font-size: 15px;
+		
+	}
+
+	#Nick:hover {
+		color: purple;
+		text-align: center;
+		font-size: 15px;
+	}
+
+	.responsive {
+		max-width: 100%;
+		height: auto;
+	}
+	}
